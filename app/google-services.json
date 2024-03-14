@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845599125986",
+    "project_id": "myappwork-22f34",
+    "storage_bucket": "myappwork-22f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845599125986:android:0a72bc94452ee1048e89bb",
+        "android_client_info": {
+          "package_name": "com.example.myappwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKVadH3GQ8Xi2mFp0hJQQHNUUf_sQAww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
